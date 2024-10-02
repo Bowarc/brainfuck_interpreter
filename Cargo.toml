@@ -1,0 +1,8 @@
+[package]
+name = "brainfuck"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+log = "0.4.20"
+logger = { git = "https://github.com/Bowarc/Crates", package = "logger" }
