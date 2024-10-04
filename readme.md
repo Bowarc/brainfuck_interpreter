@@ -14,7 +14,7 @@ The fibonacci example is an infinite loop, you'll have to CTRL+C it.
 
 ### Known issues:
 
-The input system is bad
+The input system is bad  
 There is no comment filtering, meaning that `[hi]` is taken as brainfuck code and the letters are ignored
 
 
